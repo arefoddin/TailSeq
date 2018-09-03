@@ -1,0 +1,15 @@
+Package: TailSeq
+Type: Package
+Title: Calculating Extension and Tail of RNA Sequence Experiments
+Version: 0.4.0
+Author: Aref G. Ebrahimi and Mehdi Pirouz
+Maintainer: Aref G. Ebrahimi <aref.ebrahimi@childrens.harvard.edu>
+Description: Calculates Extension and Truncations of Genes in cRACE and 3'Ligation Techiniques in RNA biology. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+  pbapply,zonator,stringr
+Suggests:
+    knitr
+RoxygenNote: 6.1.0
